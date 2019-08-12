@@ -1,51 +1,61 @@
-{
-	{"id":1,
-	"nama_kantor":"POLRES 1",
-	"jumlah_personel":100,
-	"jumlah_kejahatan":25},
-	{"id":2,
-	"nama_kantor":"POLRES 2",
-	"jumlah_personel":110,
-	"jumlah_kejahatan":34},
-	{"id":3,
-	"nama_kantor":"POLRES 3",
-	"jumlah_personel":120,
-	"jumlah_kejahatan":45},
-	{"id":4,
-	"nama_kantor":"POLRES 4",
-	"jumlah_personel":130,
-	"jumlah_kejahatan":56},
-	{"id":5,
-	"nama_kantor":"POLRES 5",
-	"jumlah_personel":170,
-	"jumlah_kejahatan":89},
-	{"id":6,
-	"nama_kantor":"POLRES 6",
-	"jumlah_personel":215,
-	"jumlah_kejahatan":110},
-	{"id":7,
-	"nama_kantor":"POLRES 7",
-	"jumlah_personel":257,
-	"jumlah_kejahatan":134},
-	{"id":8,
-	"nama_kantor":"POLRES 8",
-	"jumlah_personel":125,
-	"jumlah_kejahatan":47},
-	{"id":9,
-	"nama_kantor":"POLRES 9",
-	"jumlah_personel":1200,
-	"jumlah_kejahatan":350},
-	{"id":10,
-	"nama_kantor":"POLRES 10",
-	"jumlah_personel":1125,
-	"jumlah_kejahatan":483},
-	{"id":11,
-	"nama_kantor":"POLRES 11",
-	"jumlah_personel":1875,
-	"jumlah_kejahatan":667},
-	{"id":12,
-	"nama_kantor":"POLRES 12",
-	"jumlah_personel":2564,
-	"jumlah_kejahatan":887}
-}
-	
+[{
+	"id": 1,
+	"nama_kantor": "POLRES 1",
+	"jumlah_personel": 100,
+	"jumlah_kejahatan": 25
+}, {
+	"id": 2,
+	"nama_kantor": "POLRES 2",
+	"jumlah_personel": 110,
+	"jumlah_kejahatan": 34
+}, {
+	"id": 3,
+	"nama_kantor": "POLRES 3",
+	"jumlah_personel": 120,
+	"jumlah_kejahatan": 45
+}, {
+	"id": 4,
+	"nama_kantor": "POLRES 4",
+	"jumlah_personel": 130,
+	"jumlah_kejahatan": 56
+}, {
+	"id": 5,
+	"nama_kantor": "POLRES 5",
+	"jumlah_personel": 170,
+	"jumlah_kejahatan": 89
+}, {
+	"id": 6,
+	"nama_kantor": "POLRES 6",
+	"jumlah_personel": 215,
+	"jumlah_kejahatan": 110
+}, {
+	"id": 7,
+	"nama_kantor": "POLRES 7",
+	"jumlah_personel": 257,
+	"jumlah_kejahatan": 134
+}, {
+	"id": 8,
+	"nama_kantor": "POLRES 8",
+	"jumlah_personel": 125,
+	"jumlah_kejahatan": 47
+}, {
+	"id": 9,
+	"nama_kantor": "POLRES 9",
+	"jumlah_personel": 1200,
+	"jumlah_kejahatan": 350
+}, {
+	"id": 10,
+	"nama_kantor": "POLRES 10",
+	"jumlah_personel": 1125,
+	"jumlah_kejahatan": 483
+}, {
+	"id": 11,
+	"nama_kantor": "POLRES 11",
+	"jumlah_personel": 1875,
+	"jumlah_kejahatan": 667
+}, {
+	"id": 12,
+	"nama_kantor": "POLRES 12",
+	"jumlah_personel": 2564,
+	"jumlah_kejahatan": 887
+}]
